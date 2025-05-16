@@ -26,7 +26,5 @@ You can learn more about what I've done through my [blog](https://lanbaoshen.git
 
 ![stack overflow rep. badge](https://stackoverflow-badge.herokuapp.com/stackoverflow?username=18602881&amp;period=day&amp;mini=false)
 
-[![Top Lang](https://github-readme-stats.vercel.app/api?username=lanbaoshen&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lanbaoshen&&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
