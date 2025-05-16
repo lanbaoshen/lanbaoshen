@@ -17,11 +17,16 @@ You can learn more about what I've done through my [blog](https://lanbaoshen.git
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>
 
+## 📑 Project
+
+- [MCP-Jenkins](https://github.com/lanbaoshen/mcp-jenkins) An open-source implementation that bridges Jenkins with AI language models following Anthropic's MCP specification. [![PyPI Downloads](https://static.pepy.tech/badge/mcp-jenkins)](https://pepy.tech/projects/mcp-jenkins)
+- [ZSH-SSH-ENHANCE](https://github.com/lanbaoshen/zsh-ssh-enhance) A zsh plugin for SSH enhancements
+
 ## 📈 My Stats
 
-<img src="https://stackoverflow.com/users/flair/18602881.png?theme=dark" width="208" height="58" alt="profile for Lanbao at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Lanbao at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+![stack overflow rep. badge](https://stackoverflow-badge.herokuapp.com/stackoverflow?username=18602881&amp;period=day&amp;mini=false)
 
 [![Top Lang](https://github-readme-stats.vercel.app/api?username=lanbaoshen&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lanbaoshen&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lanbaoshen&&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
