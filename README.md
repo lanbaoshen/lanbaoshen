@@ -1,7 +1,7 @@
 ### Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Lanbao!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8DF7&background=98FF3500&center=true&vCenter=true&width=500&lines=Test Development Engineer;Backend Developer;Desktop App;AI Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8DF7&background=98FF3500&center=true&vCenter=true&width=500&lines=Test+Development+Engineer;Backend+Developer;Desktop+App;AI+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
