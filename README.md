@@ -20,7 +20,8 @@ You can learn more about what I've done through my [blog](https://lanbaoshen.git
 ## 📑 Project
 
 - [MCP-Jenkins](https://github.com/lanbaoshen/mcp-jenkins) An open-source implementation that bridges Jenkins with AI language models following Anthropic's MCP specification. [![PyPI Downloads](https://static.pepy.tech/badge/mcp-jenkins)](https://pepy.tech/projects/mcp-jenkins)
-- [ZSH-SSH-ENHANCE](https://github.com/lanbaoshen/zsh-ssh-enhance) A zsh plugin for SSH enhancements
+- [hdcutils](https://github.com/lanbaoshen/hdcutils) Pure python hdc library for harmony hdc service. Support querying hdc cmd and doc via adb cmd.
+- [ZSH-SSH-ENHANCE](https://github.com/lanbaoshen/zsh-ssh-enhance) A zsh plugin for SSH enhancements.
 - [Blog](https://github.com/lanbaoshen/lanbaoshen.github.io) A static blog site based on mkdocs and material theme.
 
 ## 📈 My Stats
