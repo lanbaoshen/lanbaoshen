@@ -26,7 +26,26 @@ You can learn more about what I've done through my [blog](https://lanbaoshen.git
 
 ## 📈 My Stats
 
-![stack overflow rep. badge](https://stackoverflow-badge.herokuapp.com/stackoverflow?username=18602881&amp;period=day&amp;mini=false)
-
-[![Lanbao's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanbaoshen&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <picture>
+          <img src="https://github-readme-stats.vercel.app/api?username=lanbaoshen&show_icons=true&theme=tokyonight&show_icons=true&hide_border=true">
+        </picture>
+      </td>
+      <td>
+        <picture>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanbaoshen&layout=compact&hide_border=true&theme=tokyonight">
+        </picture>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <picture>
+          <img src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=18602881&amp;period=day&amp;mini=false">
+        </picture>
+      </td>
+    </tr>
+  </tbody>
+</table>
