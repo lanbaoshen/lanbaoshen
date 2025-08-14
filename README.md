@@ -19,10 +19,11 @@ You can learn more about what I've done through my [blog](https://lanbaoshen.git
 
 ## 📑 Project
 
-- [MCP-Jenkins](https://github.com/lanbaoshen/mcp-jenkins) An open-source implementation that bridges Jenkins with AI language models following Anthropic's MCP specification. [![PyPI Downloads](https://static.pepy.tech/badge/mcp-jenkins)](https://pepy.tech/projects/mcp-jenkins)
+- [mcp-jenkins](https://github.com/lanbaoshen/mcp-jenkins) An open-source implementation that bridges Jenkins with AI language models following Anthropic's MCP specification. [![PyPI Downloads](https://static.pepy.tech/badge/mcp-jenkins)](https://pepy.tech/projects/mcp-jenkins)
 - [hdcutils](https://github.com/lanbaoshen/hdcutils) Pure python hdc library for harmony hdc service. Support querying hdc cmd and doc via adb cmd.
-- [ZSH-SSH-ENHANCE](https://github.com/lanbaoshen/zsh-ssh-enhance) A zsh plugin for SSH enhancements.
-- [Blog](https://github.com/lanbaoshen/lanbaoshen.github.io) A static blog site based on mkdocs and material theme.
+- [zsh-ssh-enhance](https://github.com/lanbaoshen/zsh-ssh-enhance) A zsh plugin for SSH enhancements.
+- [blog](https://github.com/lanbaoshen/lanbaoshen.github.io) A static blog site based on mkdocs and material theme.
+- [nicegui-spa](https://github.com/lanbaoshen/nicegui-spa) Web SPA template. Replicating full-stack-fastapi-template using NiceGUI
 
 ## 📈 My Stats
 
@@ -40,12 +41,13 @@ You can learn more about what I've done through my [blog](https://lanbaoshen.git
         </picture>
       </td>
     </tr>
-    <tr>
-      <td>
-        <picture>
-          <img src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=18602881&amp;period=day&amp;mini=false">
-        </picture>
-      </td>
-    </tr>
   </tbody>
 </table>
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lanbaoshen/lanbaoshen/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lanbaoshen/lanbaoshen/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lanbaoshen/lanbaoshen/output/github-contribution-grid-snake.svg">
+</picture>
