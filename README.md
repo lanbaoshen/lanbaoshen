@@ -19,6 +19,7 @@ You can learn more about what I've done through my [blog](https://lanbaoshen.git
 
 ## 📑 Project
 
+- [jev-mobile](https://github.com/lanbaoshen/jev-mobile) Fastest and cheapest mobile (Android & HarmonyOS) agent
 - [QAMule](https://github.com/lanbaoshen/QAMule) AI-Native Android QA Solution
 - [mcp-jenkins](https://github.com/lanbaoshen/mcp-jenkins) An open-source implementation that bridges Jenkins with AI language models following Anthropic's MCP specification. [![PyPI Downloads](https://static.pepy.tech/badge/mcp-jenkins)](https://pepy.tech/projects/mcp-jenkins)
 - [phone-copilot](https://github.com/lanbaoshen/phone-copilot) An AI-powered phone task automation assistant with support for both Android and HarmonyOS.
